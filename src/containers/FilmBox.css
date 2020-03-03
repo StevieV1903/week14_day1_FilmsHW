@@ -4,6 +4,12 @@ article {
   width: 50%;
   margin: 0 auto;
   font-family: 'verdana', sans-serif;
-  border: 2px solid #2a02e9;
+  border: 5px solid #2a02e9;
   padding: 15px;
+}
+
+h1 {
+  color: #00027c;
+  font-weight: bold;
+
 }

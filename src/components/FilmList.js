@@ -12,7 +12,7 @@ function FilmList({ films }){
 
 return (
     <Fragment>
-    <h2>Film List</h2>
+    <h2>Film List;</h2>
     <ul className="film-list">
     {filmComponents}
     </ul>
